@@ -1,0 +1,14 @@
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/bin/Debug/net10.0/Calculator
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/bin/Debug/net10.0/Calculator.deps.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/bin/Debug/net10.0/Calculator.runtimeconfig.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/bin/Debug/net10.0/Calculator.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/bin/Debug/net10.0/Calculator.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfoInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfo.cs
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/Calculator.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/refint/Calculator.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/Calculator.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/Calculator.genruntimeconfig.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Calculator/obj/Debug/net10.0/ref/Calculator.dll

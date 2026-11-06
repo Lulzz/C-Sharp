@@ -1,0 +1,14 @@
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/bin/Debug/net10.0/TextEditor
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/bin/Debug/net10.0/TextEditor.deps.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/bin/Debug/net10.0/TextEditor.runtimeconfig.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/bin/Debug/net10.0/TextEditor.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/bin/Debug/net10.0/TextEditor.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/TextEditor.AssemblyInfoInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/TextEditor.AssemblyInfo.cs
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/TextEditor.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/refint/TextEditor.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/TextEditor.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/TextEditor.genruntimeconfig.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/TextEditor/obj/Debug/net10.0/ref/TextEditor.dll

@@ -1,0 +1,14 @@
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/bin/Debug/net10.0/SistemaLogin
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/bin/Debug/net10.0/SistemaLogin.deps.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/bin/Debug/net10.0/SistemaLogin.runtimeconfig.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/bin/Debug/net10.0/SistemaLogin.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/bin/Debug/net10.0/SistemaLogin.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/SistemaLogin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/SistemaLogin.AssemblyInfoInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/SistemaLogin.AssemblyInfo.cs
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/SistemaLogin.csproj.CoreCompileInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/SistemaLogin.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/refint/SistemaLogin.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/SistemaLogin.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/SistemaLogin.genruntimeconfig.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/SistemaLogin/obj/Debug/net10.0/ref/SistemaLogin.dll

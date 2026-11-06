@@ -1,0 +1,4 @@
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/ListaDeTarefas/obj/Debug/net10.0/EST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/ListaDeTarefas/obj/Debug/net10.0/EST.AssemblyInfoInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/ListaDeTarefas/obj/Debug/net10.0/EST.AssemblyInfo.cs
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/ListaDeTarefas/obj/Debug/net10.0/EST.csproj.CoreCompileInputs.cache

@@ -1,0 +1,97 @@
+Principais comando Dotnet
+
+cd Teste // Abre a pasta 
+dotnet new console // cria o projeto novo 
+
+Ls = vai ver se esta rodando um projeto 
+
+dotnet restore = busca pacotes para a aplicacao
+
+dontnet build = compilador 
+
+dotnet clean = limpar o cache
+
+dotnet run= executa a aplicação 
+
+-----------------------------------
+
+Anotacoes para aprender-
+
+static void FUNCAO 
+
+int-var-float-char é VARIAVEL
+
+switch - for É ESTRUTURA DE REPETICAO 
+
+short é um tipo de dado que armazena numeros de -32 a 32
+
+console.wrireline imprime oq ta escrito
+
+++ apos uma variavel, ele sempre vai somar +1 no valor
+tipo time=10 
+currentTime = 0 
+no while (currenttime != time) ele vai repetir até o current chegar no valor do time que é 10n
+ 
+ current++ sempre vai adicionar 1 entao 
+ current = 0 ++
+ current == 1 vai repetir até quebrar a regra da estrutura de repeticao 
+ que é chegar até 10 dps para 
+
+ tem um console.clear antes pra sempre aparecer um numero somente 
+ 1 apaga dai aparece o 2 apos 1 segundo dai apaga 3 e assim em diante
+
+como o computador exebuta mt rapido a aplicacao 
+ele usou thread pra fazer ele ler mais devagar 
+1000 MILE SEGUNDOS = 1 segundo 
+
+dai a cada um segundo vai trocar o numero exibido na tela 
+
+Substring (data.length - 1, 1 );
+ele vai tirar os primeiros numero e vai emprimir so o ultimo 
+Substring (0,data.length - 1);
+ele vai comecar lendo do primeiro numero e vai tirar o ultimo 
+
+1000s
+01234 
+
+variavel multiplicador =1     m=1
+
+se o type = m 
+o multiplicador vai ser igual a 60  m=60
+
+se timpo for igual a 0 
+vai sair da aplicacao
+
+dai seguinte se o final for ele no final de aexecucao 
+ele vai fazer o time x multiplicador
+
+entao se tiver o M ele vai fazer o tempo x60 
+se nao tiver o m vai ser time x 1
+
+short variavel que armazena 1 nummero 
+leu o numero que tinha la linha e armazenou no option 
+
+no switch ele leu o numero se for 0 vai encerrar o sistema 
+1 abrir 
+2 editar 
+e qualquer outra coisa volta par o menu 
+
+ta o editar funciona da seguinte forma 
+
+vai printar aquela mensagem na tela 
+do{
+    tu vai escrever oq quiser e ele vai armazenar tudo no text que é uma string vazia null
+    ele vai ler a linha 
+    o enviroment vai adicionar uma nova sem excluir a antiga por conta do +=
+    while vai ler tudo enquanto tu nao precionar a telca ESC 
+    vai poder continuar escevendo 
+    Console.Write vai imprimir o texto sem pular uma linha 
+
+    p   rograma sempre comeca com using a system 
+    namespace --------
+    class program 
+    dps o primeiro static void maim string[) args
+    no mais tem que ter string args 
+
+static List<string> tarefas = new List<string>();
+Cria uma lista de textos chamada tarefas, vazia, que pode ser usada no programa inteiro

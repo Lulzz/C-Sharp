@@ -1,0 +1,14 @@
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/Stopwatch.AssemblyInfo.cs
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/bin/Debug/net10.0/Stopwatch
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/bin/Debug/net10.0/Stopwatch.deps.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/bin/Debug/net10.0/Stopwatch.runtimeconfig.json
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/bin/Debug/net10.0/Stopwatch.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/bin/Debug/net10.0/Stopwatch.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/Stopwatch.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/refint/Stopwatch.dll
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/Stopwatch.pdb
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/Stopwatch.genruntimeconfig.cache
+/Users/luizgabrielsmania/Desktop/Trabalho/C#/Stopwatch/obj/Debug/net10.0/ref/Stopwatch.dll
